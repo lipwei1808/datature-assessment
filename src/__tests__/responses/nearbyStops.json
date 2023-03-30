@@ -1,0 +1,92 @@
+[
+  {
+    "BusStopCode": "82131",
+    "RoadName": "Dunman Rd",
+    "Description": "Opp Maranatha Hall",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.90034889101835, 1.30955979607535]
+    }
+  },
+  {
+    "BusStopCode": "82139",
+    "RoadName": "Dunman Rd",
+    "Description": "Maranatha Hall",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.89936888898059, 1.30938972202558]
+    }
+  },
+  {
+    "BusStopCode": "82149",
+    "RoadName": "Joo Chiat Rd",
+    "Description": "Bef Koon Seng Rd",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.90136361120997, 1.31101372476887]
+    }
+  },
+  {
+    "BusStopCode": "82141",
+    "RoadName": "Tembeling Rd",
+    "Description": "Aft Koon Seng Rd",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.90248369965865, 1.31084210669638]
+    }
+  },
+  {
+    "BusStopCode": "82151",
+    "RoadName": "Tembeling Rd",
+    "Description": "Bef Joo Chiat Pl",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.9009112063053, 1.31310616198244]
+    }
+  },
+  {
+    "BusStopCode": "82159",
+    "RoadName": "Joo Chiat Pl",
+    "Description": "Aft Tembeling Rd",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.90049572645528, 1.31327026591962]
+    }
+  },
+  {
+    "BusStopCode": "82129",
+    "RoadName": "Dunman Rd",
+    "Description": "Tg Katong Sec Sch",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.8966101212743, 1.30943460005849]
+    }
+  },
+  {
+    "BusStopCode": "82121",
+    "RoadName": "Dunman Rd",
+    "Description": "Dunman View",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.8965764453886, 1.30965150589688]
+    }
+  },
+  {
+    "BusStopCode": "92171",
+    "RoadName": "Joo Chiat Rd",
+    "Description": "Marshall Lane",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.90304313394574, 1.30837865741776]
+    }
+  },
+  {
+    "BusStopCode": "92179",
+    "RoadName": "Joo Chiat Rd",
+    "Description": "Aft Duku Rd",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.90349800941955, 1.30803621256234]
+    }
+  }
+]

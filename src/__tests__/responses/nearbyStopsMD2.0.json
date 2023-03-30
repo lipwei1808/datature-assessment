@@ -1,0 +1,1463 @@
+[
+  {
+    "BusStopCode": "82131",
+    "RoadName": "Dunman Rd",
+    "Description": "Opp Maranatha Hall",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.90034889101835, 1.30955979607535]
+    }
+  },
+  {
+    "BusStopCode": "82139",
+    "RoadName": "Dunman Rd",
+    "Description": "Maranatha Hall",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.89936888898059, 1.30938972202558]
+    }
+  },
+  {
+    "BusStopCode": "82149",
+    "RoadName": "Joo Chiat Rd",
+    "Description": "Bef Koon Seng Rd",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.90136361120997, 1.31101372476887]
+    }
+  },
+  {
+    "BusStopCode": "82141",
+    "RoadName": "Tembeling Rd",
+    "Description": "Aft Koon Seng Rd",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.90248369965865, 1.31084210669638]
+    }
+  },
+  {
+    "BusStopCode": "82151",
+    "RoadName": "Tembeling Rd",
+    "Description": "Bef Joo Chiat Pl",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.9009112063053, 1.31310616198244]
+    }
+  },
+  {
+    "BusStopCode": "82159",
+    "RoadName": "Joo Chiat Pl",
+    "Description": "Aft Tembeling Rd",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.90049572645528, 1.31327026591962]
+    }
+  },
+  {
+    "BusStopCode": "82129",
+    "RoadName": "Dunman Rd",
+    "Description": "Tg Katong Sec Sch",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.8966101212743, 1.30943460005849]
+    }
+  },
+  {
+    "BusStopCode": "82121",
+    "RoadName": "Dunman Rd",
+    "Description": "Dunman View",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.8965764453886, 1.30965150589688]
+    }
+  },
+  {
+    "BusStopCode": "92171",
+    "RoadName": "Joo Chiat Rd",
+    "Description": "Marshall Lane",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.90304313394574, 1.30837865741776]
+    }
+  },
+  {
+    "BusStopCode": "92179",
+    "RoadName": "Joo Chiat Rd",
+    "Description": "Aft Duku Rd",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.90349800941955, 1.30803621256234]
+    }
+  },
+  {
+    "BusStopCode": "82171",
+    "RoadName": "Joo Chiat Pl",
+    "Description": "Bef Mangis Rd",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.90306992679919, 1.31382614901728]
+    }
+  },
+  {
+    "BusStopCode": "82079",
+    "RoadName": "Tg Katong Rd",
+    "Description": "Tg Katong Girls' Sch",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.8951960850957, 1.30801114591342]
+    }
+  },
+  {
+    "BusStopCode": "82071",
+    "RoadName": "Tg Katong Rd",
+    "Description": "Opp Tg Katong Girls' Sch",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.89541128171984, 1.30725334418948]
+    }
+  },
+  {
+    "BusStopCode": "82089",
+    "RoadName": "Tg Katong Rd",
+    "Description": "Aft Ipoh Lane",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.89430403711837, 1.31086356037133]
+    }
+  },
+  {
+    "BusStopCode": "82081",
+    "RoadName": "Tg Katong Rd",
+    "Description": "Aft Dunman Rd",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.89412794527634, 1.31037284851913]
+    }
+  },
+  {
+    "BusStopCode": "82179",
+    "RoadName": "Joo Chiat Pl",
+    "Description": "Aft Rambutan Rd",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.90453211897777, 1.31383213839694]
+    }
+  },
+  {
+    "BusStopCode": "92111",
+    "RoadName": "East Coast Rd",
+    "Description": "Opp Roxy Sq",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.90293341562067, 1.30477657929676]
+    }
+  },
+  {
+    "BusStopCode": "92119",
+    "RoadName": "East Coast Rd",
+    "Description": "Roxy Sq",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.90277451423108, 1.30444500073]
+    }
+  },
+  {
+    "BusStopCode": "92101",
+    "RoadName": "Mountbatten Rd",
+    "Description": "Katong Shop Ctr",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.90129169936806, 1.30370246223719]
+    }
+  },
+  {
+    "BusStopCode": "82049",
+    "RoadName": "Changi Rd",
+    "Description": "Joo Chiat Cplx",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.89891621295058, 1.31634170548514]
+    }
+  },
+  {
+    "BusStopCode": "82091",
+    "RoadName": "Tg Katong Rd",
+    "Description": "Aft Queen Of Peace Ch",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.89411050584133, 1.31264667096781]
+    }
+  },
+  {
+    "BusStopCode": "82099",
+    "RoadName": "Tg Katong Rd",
+    "Description": "CDAC Bldg",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.89427184817765, 1.31299461549467]
+    }
+  },
+  {
+    "BusStopCode": "92109",
+    "RoadName": "Mountbatten Rd",
+    "Description": "Opp Katong Shop Ctr",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.90145614778639, 1.30356602776936]
+    }
+  },
+  {
+    "BusStopCode": "92169",
+    "RoadName": "Tg Katong Rd",
+    "Description": "Bef Katong PO",
+    "Location": { "type": "Point", "coordinates": [103.8967661, 1.303782] }
+  },
+  {
+    "BusStopCode": "92161",
+    "RoadName": "Tg Katong Rd",
+    "Description": "Aft Katong PO",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.89656923070308, 1.30380001918907]
+    }
+  },
+  {
+    "BusStopCode": "92181",
+    "RoadName": "Joo Chiat Rd",
+    "Description": "112 Katong",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.90534997934479, 1.30528972611328]
+    }
+  },
+  {
+    "BusStopCode": "92129",
+    "RoadName": "East Coast Rd",
+    "Description": "The Holy Family Ch",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.90646134135645, 1.30686400495083]
+    }
+  },
+  {
+    "BusStopCode": "82029",
+    "RoadName": "Geylang Rd",
+    "Description": "Blk 14 Mkt/FC",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.89559528546464, 1.31569833821527]
+    }
+  },
+  {
+    "BusStopCode": "82181",
+    "RoadName": "Joo Chiat Pl",
+    "Description": "Flora East",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.905891658307, 1.31422806856846]
+    }
+  },
+  {
+    "BusStopCode": "92121",
+    "RoadName": "East Coast Rd",
+    "Description": "Opp The Holy Family Ch",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.90676515165585, 1.30722207111074]
+    }
+  },
+  {
+    "BusStopCode": "92091",
+    "RoadName": "Mountbatten Rd",
+    "Description": "Opp One Amber",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.89931388900563, 1.30270333303256]
+    }
+  },
+  {
+    "BusStopCode": "83311",
+    "RoadName": "Still Rd",
+    "Description": "Aft Lor Nangka",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.90692990251455, 1.31241970275404]
+    }
+  },
+  {
+    "BusStopCode": "82229",
+    "RoadName": "Jln Ubi",
+    "Description": "Kg Ubi CC",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.90052963468462, 1.31753161766428]
+    }
+  },
+  {
+    "BusStopCode": "83291",
+    "RoadName": "Still Rd",
+    "Description": "Aft Joo Chiat Pl",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.90589521764187, 1.31473309387158]
+    }
+  },
+  {
+    "BusStopCode": "82231",
+    "RoadName": "Guillemard Rd",
+    "Description": "Opp City Plaza",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.8936761363468, 1.3142010130892]
+    }
+  },
+  {
+    "BusStopCode": "83319",
+    "RoadName": "Still Rd",
+    "Description": "Aft Lor J Telok Kurau",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.90714010649674, 1.31268833645873]
+    }
+  },
+  {
+    "BusStopCode": "82221",
+    "RoadName": "Jln Turi",
+    "Description": "Blk 3A",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.89900705591394, 1.31760511655727]
+    }
+  },
+  {
+    "BusStopCode": "82069",
+    "RoadName": "Changi Rd",
+    "Description": "Aft Lor 106 Changi",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.90295147896967, 1.31709537499354]
+    }
+  },
+  {
+    "BusStopCode": "92099",
+    "RoadName": "Mountbatten Rd",
+    "Description": "One Amber",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.89900426571224, 1.3023783312326]
+    }
+  },
+  {
+    "BusStopCode": "92189",
+    "RoadName": "Joo Chiat Rd",
+    "Description": "Opp 112 Katong",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.90592361097, 1.3047647219741]
+    }
+  },
+  {
+    "BusStopCode": "83309",
+    "RoadName": "Still Rd",
+    "Description": "Aft Still Lane",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.90806851700533, 1.31045482788745]
+    }
+  },
+  {
+    "BusStopCode": "83169",
+    "RoadName": "Joo Chiat Pl",
+    "Description": "Bef Still Rd",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.90687033808844, 1.31428121358171]
+    }
+  },
+  {
+    "BusStopCode": "82033",
+    "RoadName": "Sims Ave",
+    "Description": "Blk 414",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.898237229405, 1.31798449318919]
+    }
+  },
+  {
+    "BusStopCode": "83299",
+    "RoadName": "Still Rd",
+    "Description": "Aft Lor G Telok Kurau",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.90586328314893, 1.31574389673514]
+    }
+  },
+  {
+    "BusStopCode": "81191",
+    "RoadName": "Dunman Rd",
+    "Description": "AFT OLD AIRPORT RD",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.89180000002517, 1.30913166702397]
+    }
+  },
+  {
+    "BusStopCode": "82032",
+    "RoadName": "Sims Ave",
+    "Description": "Blk 416",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.89719868894, 1.31776416388008]
+    }
+  },
+  {
+    "BusStopCode": "83301",
+    "RoadName": "Still Rd",
+    "Description": "Aft East Coast Rd",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.90817888897894, 1.30887166700305]
+    }
+  },
+  {
+    "BusStopCode": "92241",
+    "RoadName": "Amber Rd",
+    "Description": "Amber Gdns",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.9009525469614, 1.30178441800843]
+    }
+  },
+  {
+    "BusStopCode": "92249",
+    "RoadName": "Amber Rd",
+    "Description": "Opp Amber Gdns",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.90118149629421, 1.30166304472072]
+    }
+  },
+  {
+    "BusStopCode": "82109",
+    "RoadName": "Geylang Rd",
+    "Description": "City Plaza",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.89331774481381, 1.3151892235607]
+    }
+  },
+  {
+    "BusStopCode": "82119",
+    "RoadName": "Tg Katong Rd",
+    "Description": "Tg Katong Cplx",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.8940879247112, 1.31619210726015]
+    }
+  },
+  {
+    "BusStopCode": "82111",
+    "RoadName": "Tg Katong Rd",
+    "Description": "Opp Tg Katong Cplx",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.89379978179137, 1.3161193086354]
+    }
+  },
+  {
+    "BusStopCode": "81131",
+    "RoadName": "Guillemard Rd",
+    "Description": "Opp Grandlink Sq",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.89221613925537, 1.31431505362846]
+    }
+  },
+  {
+    "BusStopCode": "92041",
+    "RoadName": "Marine Parade Rd",
+    "Description": "Opp Parkway Parade",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.90583013375219, 1.30327282994495]
+    }
+  },
+  {
+    "BusStopCode": "82011",
+    "RoadName": "Sims Ave",
+    "Description": "Aft Tg Katong Cplx",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.89480000904068, 1.31736957951855]
+    }
+  },
+  {
+    "BusStopCode": "82061",
+    "RoadName": "Sims Ave",
+    "Description": "Eunos Stn/ Int",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.9022689641617, 1.31876162629115]
+    }
+  },
+  {
+    "BusStopCode": "82059",
+    "RoadName": "Tg Katong Rd Sth",
+    "Description": "Opp Tg Katong Rd Sth P/G",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.89745113021507, 1.3012419783155]
+    }
+  },
+  {
+    "BusStopCode": "81139",
+    "RoadName": "Guillemard Rd",
+    "Description": "Grandlink Sq",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.89191764014708, 1.31435328604306]
+    }
+  },
+  {
+    "BusStopCode": "92049",
+    "RoadName": "Marine Parade Rd",
+    "Description": "Parkway Parade",
+    "Location": { "type": "Point", "coordinates": [103.905955, 1.302999] }
+  },
+  {
+    "BusStopCode": "91071",
+    "RoadName": "Mountbatten Rd",
+    "Description": "Bef Tg Katong Rd",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.89599084091456, 1.30171305700998]
+    }
+  },
+  {
+    "BusStopCode": "81199",
+    "RoadName": "Dunman Rd",
+    "Description": "BEF OLD AIRPORT RD",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.8906311270188, 1.30862937328019]
+    }
+  },
+  {
+    "BusStopCode": "92051",
+    "RoadName": "Marine Parade Rd",
+    "Description": "Opp Blk 72",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.90783296450577, 1.30461834682389]
+    }
+  },
+  {
+    "BusStopCode": "82009",
+    "RoadName": "Eunos Rd 2",
+    "Description": "Eunos Int",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.90180834139497, 1.31933717157385]
+    }
+  },
+  {
+    "BusStopCode": "82051",
+    "RoadName": "Tg Katong Rd Sth",
+    "Description": "Tg Katong Rd Sth P/G",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.89740107761654, 1.30079999936599]
+    }
+  },
+  {
+    "BusStopCode": "92059",
+    "RoadName": "Marine Parade Rd",
+    "Description": "Bet Blks 72/74",
+    "Location": { "type": "Point", "coordinates": [103.907533, 1.304086] }
+  },
+  {
+    "BusStopCode": "81141",
+    "RoadName": "Guillemard Rd",
+    "Description": "Versailles Condo",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.89035749999957, 1.31200805596649]
+    }
+  },
+  {
+    "BusStopCode": "91079",
+    "RoadName": "Mountbatten Rd",
+    "Description": "Aft Tg Katong Rd",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.8952666584497, 1.3013063985688]
+    }
+  },
+  {
+    "BusStopCode": "83029",
+    "RoadName": "Changi Rd",
+    "Description": "Aft Kg Eunos",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.90635251996308, 1.31774429797349]
+    }
+  },
+  {
+    "BusStopCode": "81129",
+    "RoadName": "Paya Lebar Rd",
+    "Description": "Paya Lebar Stn Exit D",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.89217268755989, 1.31631147367096]
+    }
+  },
+  {
+    "BusStopCode": "92271",
+    "RoadName": "Still Rd Sth",
+    "Description": "Opp D'Ecosia",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.90952850508972, 1.30610999016148]
+    }
+  },
+  {
+    "BusStopCode": "92279",
+    "RoadName": "Still Rd Sth",
+    "Description": "D'Ecosia",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.90964863731638, 1.30633786714639]
+    }
+  },
+  {
+    "BusStopCode": "83151",
+    "RoadName": "Joo Chiat Pl",
+    "Description": "Parkway East Hosp",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.90911503893872, 1.31488002411227]
+    }
+  },
+  {
+    "BusStopCode": "81069",
+    "RoadName": "Geylang Rd",
+    "Description": "Opp Lor 39 Geylang",
+    "Location": { "type": "Point", "coordinates": [103.89069, 1.314729] }
+  },
+  {
+    "BusStopCode": "81149",
+    "RoadName": "Guillemard Rd",
+    "Description": "The Sunny Spring Condo",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.88966028743648, 1.31212569246254]
+    }
+  },
+  {
+    "BusStopCode": "83159",
+    "RoadName": "Joo Chiat Pl",
+    "Description": "Opp Parkway East Hosp",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.90947767042405, 1.31480354064185]
+    }
+  },
+  {
+    "BusStopCode": "92139",
+    "RoadName": "East Coast Rd",
+    "Description": "Opp Caltex Stn",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.91062932209371, 1.30853972762017]
+    }
+  },
+  {
+    "BusStopCode": "83139",
+    "RoadName": "Telok Kurau Rd",
+    "Description": "Aft Joo Chiat Pl",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.90997555601626, 1.31451138900044]
+    }
+  },
+  {
+    "BusStopCode": "83121",
+    "RoadName": "Telok Kurau Rd",
+    "Description": "Bef Lor K Telok Kurau",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.91063424326731, 1.31260836391216]
+    }
+  },
+  {
+    "BusStopCode": "92131",
+    "RoadName": "East Coast Rd",
+    "Description": "Caltex Stn",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.91089222198016, 1.30878111099591]
+    }
+  },
+  {
+    "BusStopCode": "83129",
+    "RoadName": "Telok Kurau Rd",
+    "Description": "Aft Ji Xiang Ct",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.91061094817724, 1.31306365118709]
+    }
+  },
+  {
+    "BusStopCode": "83131",
+    "RoadName": "Telok Kurau Rd",
+    "Description": "Aft Lor H Telok Kurau",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.90907722199168, 1.31631138897106]
+    }
+  },
+  {
+    "BusStopCode": "92201",
+    "RoadName": "Telok Kurau Rd",
+    "Description": "Aft Lor M Telok Kurau",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.9112378097299, 1.31117244269722]
+    }
+  },
+  {
+    "BusStopCode": "92061",
+    "RoadName": "Marine Parade Rd",
+    "Description": "CHIJ Katong Convent (Pr)",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.91059595623031, 1.30585304722559]
+    }
+  },
+  {
+    "BusStopCode": "83141",
+    "RoadName": "Telok Kurau Rd",
+    "Description": "Aft Lor G Telok Kurau",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.90845006395246, 1.31763611995973]
+    }
+  },
+  {
+    "BusStopCode": "83149",
+    "RoadName": "Telok Kurau Rd",
+    "Description": "Aft Changi Rd",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.90875486321198, 1.31745755005277]
+    }
+  },
+  {
+    "BusStopCode": "92209",
+    "RoadName": "Telok Kurau Rd",
+    "Description": "Aft Jln Baiduri",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.91147888898843, 1.31101000002422]
+    }
+  },
+  {
+    "BusStopCode": "81189",
+    "RoadName": "Old Airport Rd",
+    "Description": "Dakota Stn Exit B/Blk 60",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.88850877408412, 1.30821308595952]
+    }
+  },
+  {
+    "BusStopCode": "81181",
+    "RoadName": "Old Airport Rd",
+    "Description": "Dakota Stn Exit A/Blk 99",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.88847214403829, 1.30845544825732]
+    }
+  },
+  {
+    "BusStopCode": "81111",
+    "RoadName": "Paya Lebar Rd",
+    "Description": "Paya Lebar Stn Exit B",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.89211689790608, 1.31860238558389]
+    }
+  },
+  {
+    "BusStopCode": "91069",
+    "RoadName": "Mountbatten Rd",
+    "Description": "Bef Walton Rd",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.89304722999233, 1.30061892627157]
+    }
+  },
+  {
+    "BusStopCode": "81051",
+    "RoadName": "Sims Ave",
+    "Description": "Sims Ville",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.89033436777706, 1.31662343087312]
+    }
+  },
+  {
+    "BusStopCode": "83101",
+    "RoadName": "Jln Eunos",
+    "Description": "Eunos Stn",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.90489836683336, 1.32066709057479]
+    }
+  },
+  {
+    "BusStopCode": "92251",
+    "RoadName": "East Coast Pk Svc Rd",
+    "Description": "Opp Parkland Green",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.90625361097798, 1.30003666698438]
+    }
+  },
+  {
+    "BusStopCode": "92069",
+    "RoadName": "Marine Parade Rd",
+    "Description": "Tao Nan Sch",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.9110051545323, 1.30566306799291]
+    }
+  },
+  {
+    "BusStopCode": "81119",
+    "RoadName": "Paya Lebar Rd",
+    "Description": "Paya Lebar Stn Exit C",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.89169495502705, 1.31856724602339]
+    }
+  },
+  {
+    "BusStopCode": "91061",
+    "RoadName": "Mountbatten Rd",
+    "Description": "Bet Hse No. 767/767A",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.89256694398647, 1.30060777798346]
+    }
+  },
+  {
+    "BusStopCode": "92261",
+    "RoadName": "East Coast Pk Svc Rd",
+    "Description": "Opp P/G @ Big Splash",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.90051820688359, 1.29798119441776]
+    }
+  },
+  {
+    "BusStopCode": "83011",
+    "RoadName": "Sims Ave East",
+    "Description": "Casa Sarina",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.90725404505461, 1.31971491091921]
+    }
+  },
+  {
+    "BusStopCode": "81151",
+    "RoadName": "Guillemard Rd",
+    "Description": "Kong Hwa Sch",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.88784583298123, 1.31153305600814]
+    }
+  },
+  {
+    "BusStopCode": "83109",
+    "RoadName": "Jln Eunos",
+    "Description": "Opp Eunos Stn",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.90537221650075, 1.32135678897249]
+    }
+  },
+  {
+    "BusStopCode": "81159",
+    "RoadName": "Guillemard Rd",
+    "Description": "Opp Kong Hwa Sch",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.8874161243355, 1.31167873834387]
+    }
+  },
+  {
+    "BusStopCode": "92301",
+    "RoadName": "Telok Kurau Rd",
+    "Description": "Bef St. Patrick's Rd",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.9126288890594, 1.30793535291547]
+    }
+  },
+  {
+    "BusStopCode": "92309",
+    "RoadName": "Telok Kurau Rd",
+    "Description": "East Coast Apts",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.91268253327297, 1.30827858622776]
+    }
+  },
+  {
+    "BusStopCode": "83049",
+    "RoadName": "Changi Rd",
+    "Description": "Bef Lor 110 Changi",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.91002178191968, 1.318489754773]
+    }
+  },
+  {
+    "BusStopCode": "81049",
+    "RoadName": "Geylang Rd",
+    "Description": "Aft Lor 34 Geylang",
+    "Location": { "type": "Point", "coordinates": [103.8873525, 1.314075556] }
+  },
+  {
+    "BusStopCode": "92231",
+    "RoadName": "Marine Cres",
+    "Description": "Blk 34",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.9123223933556, 1.30425500081318]
+    }
+  },
+  {
+    "BusStopCode": "81229",
+    "RoadName": "Geylang East Ctrl",
+    "Description": "Blk 1015",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.89018804743054, 1.31946112797115]
+    }
+  },
+  {
+    "BusStopCode": "92239",
+    "RoadName": "Marine Cres",
+    "Description": "Blk 45",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.91266110940761, 1.30438002120698]
+    }
+  },
+  {
+    "BusStopCode": "81221",
+    "RoadName": "Geylang East Ctrl",
+    "Description": "Opp Blk 1015",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.89015111975269, 1.31976331280568]
+    }
+  },
+  {
+    "BusStopCode": "81101",
+    "RoadName": "Paya Lebar Rd",
+    "Description": "CISCO Ctr",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.89152220076973, 1.32111522416649]
+    }
+  },
+  {
+    "BusStopCode": "81109",
+    "RoadName": "Paya Lebar Rd",
+    "Description": "Opp CISCO Ctr",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.89117183414866, 1.3209137166719]
+    }
+  },
+  {
+    "BusStopCode": "91051",
+    "RoadName": "Mountbatten Rd",
+    "Description": "Opp Santa Fe Mansions",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.88946922448878, 1.30046470843446]
+    }
+  },
+  {
+    "BusStopCode": "83119",
+    "RoadName": "Jln Eunos",
+    "Description": "Opp Blk 16",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.90560762847845, 1.32306974700238]
+    }
+  },
+  {
+    "BusStopCode": "92141",
+    "RoadName": "East Coast Rd",
+    "Description": "Nafa Arts Kindergarten",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.91428724575974, 1.30939538245506]
+    }
+  },
+  {
+    "BusStopCode": "91101",
+    "RoadName": "East Coast Pk Svc Rd",
+    "Description": "Tg Katong Flyover",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.89668750894906, 1.29607137626294]
+    }
+  },
+  {
+    "BusStopCode": "83031",
+    "RoadName": "Sims Ave East",
+    "Description": "Opp Hong San Si Tp",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.91000032422843, 1.32027026937212]
+    }
+  },
+  {
+    "BusStopCode": "92149",
+    "RoadName": "East Coast Rd",
+    "Description": "St. Patrick's Green",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.91434517290193, 1.30928064742874]
+    }
+  },
+  {
+    "BusStopCode": "83111",
+    "RoadName": "Jln Eunos",
+    "Description": "Blk 17",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.90527311322877, 1.32346854012914]
+    }
+  },
+  {
+    "BusStopCode": "91059",
+    "RoadName": "Mountbatten Rd",
+    "Description": "Katong Pk Twrs",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.88831333297796, 1.30052638901127]
+    }
+  },
+  {
+    "BusStopCode": "81031",
+    "RoadName": "Sims Ave",
+    "Description": "Blk 134",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.88604854571838, 1.31580283030533]
+    }
+  },
+  {
+    "BusStopCode": "83059",
+    "RoadName": "Changi Rd",
+    "Description": "Mjd Kassim",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.91222670426201, 1.31888900641724]
+    }
+  },
+  {
+    "BusStopCode": "81171",
+    "RoadName": "Old Airport Rd",
+    "Description": "Blk 39",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.88500750064323, 1.30751703730041]
+    }
+  },
+  {
+    "BusStopCode": "92289",
+    "RoadName": "East Coast Pk Svc Rd",
+    "Description": "Marine Cove",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.91282770401249, 1.30179664907354]
+    }
+  },
+  {
+    "BusStopCode": "92071",
+    "RoadName": "Marine Parade Rd",
+    "Description": "Opp Blk 57",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.91498055803811, 1.3067937735779]
+    }
+  },
+  {
+    "BusStopCode": "81179",
+    "RoadName": "Old Airport Rd",
+    "Description": "Blk 22",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.88490711001795, 1.30726086825664]
+    }
+  },
+  {
+    "BusStopCode": "81029",
+    "RoadName": "Geylang Rd",
+    "Description": "Aft Lor 28 Geylang",
+    "Location": { "type": "Point", "coordinates": [103.8849306, 1.313616389] }
+  },
+  {
+    "BusStopCode": "92221",
+    "RoadName": "Marine Terr",
+    "Description": "Blk 19",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.91493558885941, 1.30496423786628]
+    }
+  },
+  {
+    "BusStopCode": "81219",
+    "RoadName": "Geylang East Ctrl",
+    "Description": "Opp Geylang Polyclinic",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.8866869928233, 1.31877141262042]
+    }
+  },
+  {
+    "BusStopCode": "92151",
+    "RoadName": "East Coast Rd",
+    "Description": "Christ Meth Ch",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.91602380242344, 1.3098029425373]
+    }
+  },
+  {
+    "BusStopCode": "92079",
+    "RoadName": "Marine Parade Rd",
+    "Description": "Blk 57",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.91574700260743, 1.30684575808096]
+    }
+  },
+  {
+    "BusStopCode": "81211",
+    "RoadName": "Geylang East Ctrl",
+    "Description": "Geylang Polyclinic",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.88666750777982, 1.31904666371972]
+    }
+  },
+  {
+    "BusStopCode": "71211",
+    "RoadName": "Ubi Ave 1",
+    "Description": "Ubi 55",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.89525403753592, 1.32546235545492]
+    }
+  },
+  {
+    "BusStopCode": "91041",
+    "RoadName": "Mountbatten Rd",
+    "Description": "EtonHouse Pre-Sch",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.8865107850326, 1.30100303875383]
+    }
+  },
+  {
+    "BusStopCode": "71201",
+    "RoadName": "Ubi Ave 1",
+    "Description": "Paya Ubi Ind Pk",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.89795152582765, 1.32612447781531]
+    }
+  },
+  {
+    "BusStopCode": "71219",
+    "RoadName": "Ubi Ave 1",
+    "Description": "Ubi Techpark",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.89505220634288, 1.32554207103]
+    }
+  },
+  {
+    "BusStopCode": "71209",
+    "RoadName": "Ubi Ave 1",
+    "Description": "Opp Paya Ubi Ind Pk",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.89720788120638, 1.32608112825105]
+    }
+  },
+  {
+    "BusStopCode": "91049",
+    "RoadName": "Mountbatten Rd",
+    "Description": "Bef Fort Rd",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.88643299699929, 1.30069808015377]
+    }
+  },
+  {
+    "BusStopCode": "91111",
+    "RoadName": "East Coast Pk Svc Rd",
+    "Description": "CP B1",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.89246238709205, 1.29535544538917]
+    }
+  },
+  {
+    "BusStopCode": "92191",
+    "RoadName": "East Coast Pk Svc Rd",
+    "Description": "Opp CP C3",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.91471180502236, 1.30244833118536]
+    }
+  },
+  {
+    "BusStopCode": "92159",
+    "RoadName": "East Coast Rd",
+    "Description": "ST. PATRICK'S SCH",
+    "Location": { "type": "Point", "coordinates": [103.9166295, 1.309748] }
+  },
+  {
+    "BusStopCode": "71111",
+    "RoadName": "Ubi Ave 1",
+    "Description": "Blk 343",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.90058695177659, 1.3267052749653]
+    }
+  },
+  {
+    "BusStopCode": "91099",
+    "RoadName": "Mountbatten Rd",
+    "Description": "Bef Wilkinson Rd",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.88471920227425, 1.30320972763591]
+    }
+  },
+  {
+    "BusStopCode": "83201",
+    "RoadName": "Frankel Ave",
+    "Description": "Bef Frankel Terr",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.91440987586641, 1.31860774070821]
+    }
+  },
+  {
+    "BusStopCode": "92229",
+    "RoadName": "Marine Terr",
+    "Description": "Blk 53",
+    "Location": { "type": "Point", "coordinates": [103.916022, 1.304952] }
+  },
+  {
+    "BusStopCode": "71119",
+    "RoadName": "Ubi Ave 1",
+    "Description": "Opp Blk 343",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.90021869264116, 1.32680124825187]
+    }
+  },
+  {
+    "BusStopCode": "81161",
+    "RoadName": "Guillemard Rd",
+    "Description": "blk 56",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.88318148792811, 1.31054638768125]
+    }
+  },
+  {
+    "BusStopCode": "81169",
+    "RoadName": "Guillemard Rd",
+    "Description": "Opp Blk 56",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.88313174959588, 1.31078371924435]
+    }
+  },
+  {
+    "BusStopCode": "83209",
+    "RoadName": "Frankel Ave",
+    "Description": "Aft Frankel Terr",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.91459583301028, 1.31870305598811]
+    }
+  },
+  {
+    "BusStopCode": "92219",
+    "RoadName": "Marine Terr",
+    "Description": "Opp CHIJ Katong Convent",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.91665220259567, 1.30633717232202]
+    }
+  },
+  {
+    "BusStopCode": "91091",
+    "RoadName": "Mountbatten Rd",
+    "Description": "Bef Kg Kayu Rd",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.88436845345339, 1.30314976548218]
+    }
+  },
+  {
+    "BusStopCode": "83062",
+    "RoadName": "Sims Ave East",
+    "Description": "Kembangan Stn",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.9133277893385, 1.32096859171096]
+    }
+  },
+  {
+    "BusStopCode": "80279",
+    "RoadName": "Mountbatten Rd",
+    "Description": "Mountbatten Stn Exit B",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.88342000727887, 1.30514903438296]
+    }
+  },
+  {
+    "BusStopCode": "92211",
+    "RoadName": "Marine Terr",
+    "Description": "CHIJ Katong Convent (Sec)",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.91698861102066, 1.30595638898755]
+    }
+  },
+  {
+    "BusStopCode": "81011",
+    "RoadName": "Sims Ave",
+    "Description": "Aft Aljunied Stn",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.88335173265862, 1.31532318660502]
+    }
+  },
+  {
+    "BusStopCode": "71229",
+    "RoadName": "Ubi Rd 1",
+    "Description": "Opp Meiban Ind Bldg",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.8933485973626, 1.32623562632795]
+    }
+  },
+  {
+    "BusStopCode": "83191",
+    "RoadName": "Frankel Ave",
+    "Description": "Bef Frankel Dr",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.91597628595028, 1.31729916899357]
+    }
+  },
+  {
+    "BusStopCode": "80271",
+    "RoadName": "Mountbatten Rd",
+    "Description": "Opp Mountbatten Stn",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.8831203007559, 1.30511398524943]
+    }
+  },
+  {
+    "BusStopCode": "70259",
+    "RoadName": "Paya Lebar Rd",
+    "Description": "Macpherson Stn Exit B",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.89080428753108, 1.32498730068675]
+    }
+  },
+  {
+    "BusStopCode": "71221",
+    "RoadName": "Ubi Rd 1",
+    "Description": "Meiban Ind Bldg",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.89318347862555, 1.32632177179998]
+    }
+  },
+  {
+    "BusStopCode": "92081",
+    "RoadName": "Marine Parade Rd",
+    "Description": "St. Patrick's Sec Sch",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.91754269765207, 1.30751338586806]
+    }
+  },
+  {
+    "BusStopCode": "70251",
+    "RoadName": "Paya Lebar Rd",
+    "Description": "Macpherson Stn Exit C",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.89037074589527, 1.32497158481981]
+    }
+  },
+  {
+    "BusStopCode": "81209",
+    "RoadName": "Geylang East Ctrl",
+    "Description": "Geylang Meth Pr Sch",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.88429716458627, 1.31843612461246]
+    }
+  },
+  {
+    "BusStopCode": "83199",
+    "RoadName": "Frankel Ave",
+    "Description": "Aft Frankel Dr",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.91628277801507, 1.31733638898862]
+    }
+  },
+  {
+    "BusStopCode": "92089",
+    "RoadName": "Marine Parade Rd",
+    "Description": "CHIJ Katong Convent",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.91764721757994, 1.3071917122941]
+    }
+  },
+  {
+    "BusStopCode": "83079",
+    "RoadName": "Changi Rd",
+    "Description": "Bef Siglap Plain",
+    "Location": {
+      "type": "Point",
+      "coordinates": [103.91505416701378, 1.31976833302337]
+    }
+  }
+]
